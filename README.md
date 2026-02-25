@@ -23,10 +23,6 @@
 ### GitHub Stats  
 ![GitHub Stars](https://img.shields.io/github/stars/NotMoodsFr?style=for-the-badge&logo=github)  
 
-![Solstice-Development's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NotMoodsFr&show_icons=true&count_private=true&theme=transparent)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NotMoodsFr&layout=compact&theme=transparent)  
-
 ---
 
 ### 📫 How to reach me  
